@@ -1,5 +1,5 @@
-opencv-python
+streamlit
+joblib
+scikit-learn
 numpy
-torch
-pillow
-flask
+pandas
